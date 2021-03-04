@@ -6,7 +6,7 @@ VERSION
     1.0
     
 AUTHOR
-	Ana Karen Hernandez	
+	Ana Karen Hernandez, Cristina
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
