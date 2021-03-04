@@ -1,6 +1,6 @@
 '''
 NAME
-	reverse-complement.py AnaKaren
+	reverse-complement.py
     
 VERSION
     1.0
@@ -16,11 +16,11 @@ CATEGORY
     
 USAGE
 
-    % python reverse-complement.py -i FILENAME 
+    % python reverse-complement.py -i 
     
     example
     
-    % python reverse-complement -i sequence.txt
+    % python reverse-complement -i
 
 '''
 
