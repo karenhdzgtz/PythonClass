@@ -1,6 +1,6 @@
 '''
 NAME
-	reverse-complement.py
+	reverse-complement.py AnaKaren
     
 VERSION
     1.0
