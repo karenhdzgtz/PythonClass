@@ -5,7 +5,7 @@ VERSION
         1.0
 
 AUTHOR
-	Ana Karen        
+	Ana Karen Hernandez G.      
 
 DESCRIPTION
         Calculate percentage of AT on a genome sequence
