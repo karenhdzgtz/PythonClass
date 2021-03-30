@@ -1,4 +1,4 @@
-```
+'''
 NOMBRE
 	Template generico
 	ej. AT-percentage
@@ -31,4 +31,4 @@ USO
 	% python AT-percentage.py -i sequence.txt
 
 
-```
+'''
