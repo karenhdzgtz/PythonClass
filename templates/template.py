@@ -1,34 +1,36 @@
 '''
 NOMBRE
-	Template generico
-	ej. AT-percentage
+	[programName].py
 
 
 VERSION
-	1.0
+	[#.#]
 
 
 AUTOR
-	Hernandez Gutierrez Ana Karen
+	Hernandez Gutierrez Ana Karen <[username]@gmail.com>
+	[Other authors]: [Modifications]
 
 
 DESCRIPCION
-	Escribe aqui la descripcion de tu programa
-	ej. Programa que calcula el porcentaje de ata en una secuencia genomica
+	[Escribe aqui la descripcion de tu programa
+	ej. Programa que calcula el porcentaje de ata en una secuencia genomica]
 
 
 CATEGORIA
-	Escribe aqui la categoria
-	ej. Secuencia genomica
+	[Escribe aqui la categoria
+	ej. Secuencia genomica ]
 
 
 USO
-	ej.
-	% python AT-percentage.py -i filename
+	[programName][-options/arguments]
 
-	ejemplo
+ARGUMENTOS / OPCIONES
+	[nombre]  [descripción]
 
-	% python AT-percentage.py -i sequence.txt
+EJEMPLOS
+	[Ejemplo 1: describe el ejemplo y después indica las instrucciones. En markdown puedes usar ` o ``` para indicar código]
+
 
 
 '''
