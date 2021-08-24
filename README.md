@@ -1,9 +1,9 @@
 # PythonClass
 ## Descripción
-Repositorio para la clase de python. Aqui se almacenan tanto las notas de clase así como todos los programas, resultados, etc. generados a partir de las clases de programación en python.
+Repositorio para la clase de Python. Aquí se almacenan tanto las notas de clase así como todos los programas, resultados, etc. generados a partir de las clases de programación en Python.
 
 ## Motivación
-Se creo este repositorio con la finalidad de controlar los archivos de la clase de manera automática y mantener un control de las versiones de los mismos.
+Se creó este repositorio con la finalidad de controlar los archivos de la clase de manera automática y mantener un control de las versiones de los mismos.
 
 ## Requisitos del sistema
 _No aplica_
